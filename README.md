@@ -1,2 +1,2 @@
 # evil-icons
-Дополнительные иконки для evil-icons.io
+Дополнительные SVG иконки для [Evil Icons](http://evil-icons.io/).
