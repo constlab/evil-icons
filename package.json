@@ -1,0 +1,24 @@
+{
+  "name": "evil-icons",
+  "version": "1.0.0",
+  "description": "Дополнительные SVG иконки для [Evil Icons](http://evil-icons.io/).",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/constlab/evil-icons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/constlab/evil-icons/issues"
+  },
+  "homepage": "https://github.com/constlab/evil-icons#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-template": "^4.0.0"
+  }
+}
